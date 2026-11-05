@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: ClassicFriends
+## Notes: Shows the Friends tab as a compact classic friends list. The side tabs, Battle.net bar, friend requests and ignore list stay as Blizzard made them.
+## Author: Konig
+## Version: 1.0.0
+## SavedVariables: ClassicFriendsDB
+## X-Category: Chat & Communication
+## X-License: MIT
+## IconTexture: Interface\FriendsFrame\Battlenet-Portrait
+
+ClassicFriends.lua
